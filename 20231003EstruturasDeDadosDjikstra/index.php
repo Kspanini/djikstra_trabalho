@@ -22,7 +22,7 @@
             }
             echo '</label>';
             if(isset($_POST['origem']) && isset($_POST['destino'])){
-            
+                echo 'teste';
             }
         ?>
    </body>
